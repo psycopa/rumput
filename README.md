@@ -4,14 +4,14 @@
 ## Install Python and Depensi
 
 ```
-sudo apt install python3 python3-pip
+apt install python3 python3-pip
 ```
 
 ## Clone GitHub
 
 ```
-git clone https://github.com/namoradigital/grassbot2.git
-cd grassbot2
+git clone https://github.com/psycopa/rumput
+cd rumput
 ```
 
 ```
